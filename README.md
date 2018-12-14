@@ -1,2 +1,2 @@
 # auth-graphql-starter
-Its a simple authentication with GraphQL and React
+It is a simple authentication with GraphQL and React
